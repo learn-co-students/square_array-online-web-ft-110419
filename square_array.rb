@@ -1,3 +1,3 @@
-def square_array(array)
-  # your code here
+def 2 = [2,4,6]
+  2(2,4,6)
 end
